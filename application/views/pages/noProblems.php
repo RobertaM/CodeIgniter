@@ -1,0 +1,1 @@
+Šiuo metu nėra užfiksuota naujų problemų

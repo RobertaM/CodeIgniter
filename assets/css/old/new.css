@@ -1,0 +1,25 @@
+body
+{
+font-family:'Georgia',Times New Roman, Times, serif;
+font-size:18px;
+}
+.message_box
+{
+height:60px;
+width:600px; 
+border:dashed 1px #48B1D9; 
+padding:5px ;
+}
+#last_msg_loader
+{
+text-align: right;
+width: 920px;
+margin: -125px auto 0 auto;
+}
+.number
+{
+float:right; 
+background-color:#48B1D9; 
+color:#000; 
+font-weight:bold;
+}
